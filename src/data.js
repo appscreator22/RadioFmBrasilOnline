@@ -182,7 +182,7 @@ function chillHop() {
             color: ["#FDE1A9", "#A46874"],
             audio: "https://s4.yesstreaming.net:17044/stream/1/",
             active: false,
-        },
+         },
     ];
 }
 
