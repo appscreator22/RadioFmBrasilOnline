@@ -175,12 +175,12 @@ function chillHop() {
             active: false,
         },
         {
-            name:"Rock and Pop",
-            artist: "RockandPop",
+            name:"Unity Gospel Radio live",
+            artist: "UnityGospelRadiolive",
             cover: "https://img.freepik.com/psd-gratis/maqueta-reproductor-multimedia-rose-gold-maqueta-reproductor-multimedia-rose-gold-3d_106244-1745.jpg",
             id: uuidv4(),
             color: ["#FDE1A9", "#A46874"],
-            audio: "https://s4.yesstreaming.net:17044/stream/1/",
+            audio: "https://usa11.fastcast4u.com/proxy/osbavdls?mp=%2F1",
             active: false,      
          },
     ];
