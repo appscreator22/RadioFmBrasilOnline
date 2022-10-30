@@ -34,7 +34,7 @@ function chillHop() {
             name:"Rádio BH FM",
             artist: "RádioBHFM",
             cover: "https://img.freepik.com/foto-gratis/microfono-moderno_144627-41314.jpg",
-            id: uuidv4(),Rádio BH FM
+            id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://26373.live.streamtheworld.com/BHFM_SC",
             active: false,
